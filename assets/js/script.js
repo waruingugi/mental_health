@@ -1,6 +1,6 @@
 $(function () {
     count = 0;
-    wordsArray = ['Depression', 'Anxiety', 'Alcoholism'];
+    wordsArray = ['Depression', 'Anxiety', 'Alcoholism', 'Trauma'];
 
     setInterval(function () {
         count++;
